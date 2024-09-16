@@ -1,0 +1,25 @@
+.top {
+    background-image: url(images/aidan-hancock-8RU4OuA6Yug-unsplash.png)  ;
+  background-repeat: no-repeat;
+    height: 100vw;
+   width: 100vw;
+   margin: 0;
+}
+ .text {
+    font-size: 30px;
+    padding-left: 30% ;
+    padding-top: 30%;
+ }
+ .text1 {
+    padding-left: 30% ;
+    padding-top: 5%;
+ }
+
+    .button {
+        position: absolute;
+        top:50%;
+        background-color:#0be2ff69;
+        color: #fff;
+        
+    }
+ 
