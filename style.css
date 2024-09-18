@@ -1,9 +1,11 @@
 .top {
-    background-image: url(images/aidan-hancock-8RU4OuA6Yug-unsplash.png)  ;
-  background-repeat: no-repeat;
-    height: 100vw;
-   width: 100vw;
-   margin: 0;
+    
+   background-image: url(images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    width: 100vx;
+    height: 100vh;
+   background-size: cover;
+
+
 }
  .text {
     font-size: 30px;
@@ -22,4 +24,21 @@
         color: #fff;
         
     }
- 
+ .new{
+   padding: 0;
+border: none;
+background: none;
+ }
+ .center{
+   text-align: center;
+   padding-left: 25%;
+   padding-right: 25%;
+ }
+
+ .prog{
+   background-color: aqua;
+ }
+ .red{
+   padding-right: 20%;
+ }
+ .wend{ padding-left: 1300px;}
