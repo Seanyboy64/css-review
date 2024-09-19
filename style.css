@@ -42,3 +42,25 @@ background: none;
    padding-right: 20%;
  }
  .wend{ padding-left: 1300px;}
+ .active {
+   color: aqua;
+ }
+ .ass {
+   color: rgb(139, 232, 255);
+   text-decoration: none;
+ }
+ .ass:hover {
+   color: rgb(98, 235, 245);
+   text-decoration: none;
+ }
+ .navthing {
+   color: black;
+   text-decoration: none;
+}
+ .navthing:hover {
+   color: rgb(96, 250, 250);
+ }
+ #about{
+   
+ }
+ .prad{padding-top: 25%;}
