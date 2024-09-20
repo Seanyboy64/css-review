@@ -36,7 +36,7 @@ background: none;
  }
 
  .prog{
-   background-color: aqua;
+   background-color: #F5F5F5;
  }
  .red{
    padding-right: 20%;
@@ -63,4 +63,17 @@ background: none;
  #about{
    
  }
- .prad{padding-top: 25%;}
+ .prad{padding-top: 20%;}
+ .dered{
+  width: 100%;
+ }
+
+ .progress-bar-teal {
+  background-color: #10C9C3 !important;
+  }
+
+  .sec3{
+    background-color: #10C9C3;
+    color: white;
+  }
+
