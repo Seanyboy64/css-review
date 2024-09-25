@@ -30,8 +30,8 @@ border: none;
 background: none;
  }
  .center{
-   text-align: center;
-   padding-left: 25%;
+  text-align: center;
+ padding-left: 25%;
    padding-right: 25%;
  }
 
@@ -77,3 +77,48 @@ background: none;
     color: white;
   }
 
+  .container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #141414;
+
+}
+
+.container:hover .overlay {
+  opacity: 25%;
+}
+
+.gal {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.sec4{
+  background-color: #F5F5F5;
+  color: white;
+}
