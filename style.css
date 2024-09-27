@@ -46,11 +46,11 @@ background: none;
    color: aqua;
  }
  .ass {
-   color: rgb(139, 232, 255);
+   color: #10C9C3;
    text-decoration: none;
  }
  .ass:hover {
-   color: rgb(98, 235, 245);
+   color: #10C9C3;
    text-decoration: none;
  }
  .navthing {
@@ -58,7 +58,7 @@ background: none;
    text-decoration: none;
 }
  .navthing:hover {
-   color: rgb(96, 250, 250);
+   color: #10C9C3;
  }
  #about{
    
@@ -123,7 +123,12 @@ background: none;
   color: white;
 }
 .tree{
- margin-left: 40%;
+ margin-left: 45%;
  background-color: #10C9C3;
  border: none;
 }
+.tree2{
+  margin-right: 75%;
+  background-color: #10C9C3;
+  border: none;
+ }
